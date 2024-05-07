@@ -12,8 +12,6 @@ This repository contains the finalized source-code and hardware design documents
 ## System overview
 
 The system consists of a single PCBA project which can be broken apart in all necessary components with only little manual THT soldering required.
-The core components are: 
-- 
+The main components are outlined in the image below.
 
-![hw_overview](https://github.com/[mtfinding]/[ClickTest]/img/[main]/click_overview.png?raw=true)
-
+<img src="img/click_overview.png?raw=true" alt="hw_overview" width="50%">
